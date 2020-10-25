@@ -1,0 +1,22 @@
+{
+  "name": "07-auth-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "google-auth-library": "^6.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.6",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
